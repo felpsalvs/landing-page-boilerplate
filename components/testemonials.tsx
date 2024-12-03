@@ -4,21 +4,21 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 const testimonials = [
   {
     quote:
-      "Este produto transformou completamente nossas operações comerciais. É um divisor de águas!",
+      "&quot;Este produto transformou completamente nossas operações comerciais. É um divisor de águas!&quot;",
     author: "Jane Doe",
     title: "CEO, TechCorp",
     avatar: "/avatar1.png",
   },
   {
     quote:
-      "Não consigo imaginar gerenciar minha empresa sem esta ferramenta. Tornou-se uma parte essencial do nosso fluxo de trabalho.",
+      "&quot;Não consigo imaginar gerenciar minha empresa sem esta ferramenta. Tornou-se uma parte essencial do nosso fluxo de trabalho.&quot;",
     author: "John Smith",
     title: "Fundador, StartupX",
     avatar: "/avatar2.png",
   },
   {
     quote:
-      "O suporte ao cliente é excepcional. Eles estão sempre presentes quando precisamos.",
+      "&quot;O suporte ao cliente é excepcional. Eles estão sempre presentes quando precisamos.&quot;",
     author: "Emily Brown",
     title: "CTO, InnovateNow",
     avatar: "/avatar3.png",
